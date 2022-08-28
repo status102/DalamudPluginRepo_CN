@@ -23,7 +23,6 @@
         "InternalName": "SmartVote",
         "AssemblyVersion": "1.0.3.1",
         "Description": "Smart Vote the Mvp in player commendation for you.(重新打包，原库已丢失)"
-        "InternalName": "SmartVote",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
         "IconUrl": "",
