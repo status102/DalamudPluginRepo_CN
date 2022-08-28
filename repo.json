@@ -17,23 +17,5 @@
         "DownloadLinkUpdate": "https://github.com/status102/AntiAfkKick_CN/releases/latest/download/AntiAfkKick-Dalamud.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
-    },{
-        "Author": "Bluefissure",
-        "Name": "SmartVote",
-        "InternalName": "SmartVote",
-        "AssemblyVersion": "1.0.3.1",
-        "Punchline": "Smart Vote the Mvp in player commendation for you(\u91cd\u65b0\u6253\u5305\uff0c\u539f\u5e93\u5df2\u4e22\u5931)",
-        "Description": "",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 4,
-        "IconUrl": "",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/status102/SmartVote/main/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/status102/SmartVote/main/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/status102/SmartVote/main/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "0"
     }
 ]
