@@ -1,7 +1,7 @@
 [{
         "Author": "Eternita",
         "Name": "AntiAfkKick_CN",
-        "Punchline": "国服特供：一个 Dalamud 插件，用于防止由于不活动而被自动踢出 FFXIV。 安装并忘记，无需配置。",
+        "Punchline": "\u56fd\u670d\u7279\u4f9b\uff1a\u4e00\u4e2a\u0020\u0044\u0061\u006c\u0061\u006d\u0075\u0064\u0020\u63d2\u4ef6\uff0c\u7528\u4e8e\u9632\u6b62\u7531\u4e8e\u4e0d\u6d3b\u52a8\u800c\u88ab\u81ea\u52a8\u8e22\u51fa\u0020\u0046\u0046\u0058\u0049\u0056\u3002\u0020\u5b89\u88c5\u5e76\u5fd8\u8bb0\uff0c\u65e0\u9700\u914d\u7f6e\u3002",
         "Description": "",
         "InternalName": "AntiAfkKick-Dalamud",
         "AssemblyVersion": "2.1.0.2",
@@ -22,7 +22,7 @@
         "Name": "SmartVote",
         "InternalName": "SmartVote",
         "AssemblyVersion": "1.0.3.1",
-        "Punchline": "Smart Vote the Mvp in player commendation for you.(重新打包，原库已丢失)",
+        "Punchline": "Smart Vote the Mvp in player commendation for you(\u91cd\u65b0\u6253\u5305\uff0c\u539f\u5e93\u5df2\u4e22\u5931)",
         "Description": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
