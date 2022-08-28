@@ -1,5 +1,4 @@
-[
-{
+[{
         "Author": "Eternita",
         "Name": "AntiAfkKick_CN",
         "Punchline": "国服特供：一个 Dalamud 插件，用于防止由于不活动而被自动踢出 FFXIV。 安装并忘记，无需配置。",
@@ -16,6 +15,24 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/status102/AntiAfkKick_CN/releases/latest/download/AntiAfkKick-Dalamud.zip",
         "DownloadLinkUpdate": "https://github.com/status102/AntiAfkKick_CN/releases/latest/download/AntiAfkKick-Dalamud.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
+    },{
+        "Author": "Bluefissure",
+        "Name": "SmartVote",
+        "InternalName": "SmartVote",
+        "AssemblyVersion": "1.0.3.1",
+        "Description": "Smart Vote the Mvp in player commendation for you.(重新打包，原库已丢失)"
+        "InternalName": "SmartVote",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 4,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/status102/SmartVote/main/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/status102/SmartVote/main/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/status102/SmartVote/main/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
     }
