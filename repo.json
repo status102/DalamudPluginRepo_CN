@@ -43,8 +43,8 @@
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
   "Punchline": "查看房区时记录数据并上传，上传摇号数据",
-    "DownloadLinkInstall": "https://github.com/status102/WannaHome-Dalamud/raw/main/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/status102/WannaHome-Dalamud/raw/main/latest.zip",
-    "DownloadLinkTesting": "https://github.com/status102/WannaHome-Dalamud/raw/main/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/status102/WannaHome-Dalamud/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/status102/WannaHome-Dalamud/main/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/status102/WannaHome-Dalamud/main/latest.zip"
 }
 ]
