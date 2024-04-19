@@ -3,8 +3,8 @@
         "Author": "status102",
         "Name": "Cashier",
         "InternalName": "Cashier",
-        "AssemblyVersion": "0.1.1.3",
-        "Changelog": "调整UI",
+        "AssemblyVersion": "0.1.2.0",
+        "Changelog": "移除Universalis",
         "Punchline": "老板队结账太麻烦？忘了交易给了多少金币？用这个",
         "Description": "",
         "ApplicableVersion": "any",
@@ -12,9 +12,7 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/status102/DalamudPluginRepo_CN/main/cashier.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/status102/DalamudPluginRepo_CN/main/cashier.zip",
         "Tags": [
-            "Trade",
-            "MarketBoard",
-            "RetainerSell"
+            "Trade"
         ],
         "DalamudApiLevel": 9,
         "LoadRequiredState": 0,
