@@ -3,7 +3,9 @@
         "Author": "status102",
         "Name": "Cashier",
         "InternalName": "Cashier",
-        "AssemblyVersion": "0.1.1.2",
+        "AssemblyVersion": "0.1.1.3",
+        "Changelog": "调整UI",
+        "Punchline": "老板队结账太麻烦？忘了交易给了多少金币？用这个",
         "Description": "",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/status102/Cashier",
@@ -22,7 +24,6 @@
         "ImageUrls": [
             "https://github.com/status102/Cashier/raw/master/Image/History.png"
         ],
-        "Punchline": "老板队结账太麻烦？忘了交易给了多少金币？用这个",
         "AcceptsFeedback": true
     },
     {
