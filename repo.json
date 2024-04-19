@@ -3,11 +3,12 @@
         "Author": "status102",
         "Name": "Cashier",
         "InternalName": "Cashier",
-        "AssemblyVersion": "0.1.1.0",
+        "AssemblyVersion": "0.1.1.1",
         "Description": "",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/status102/Cashier",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/status102/DalamudPluginRepo_CN/main/cashier.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/status102/DalamudPluginRepo_CN/main/cashier.zip",
         "Tags": [
             "Trade",
             "MarketBoard",
