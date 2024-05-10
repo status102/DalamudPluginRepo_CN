@@ -3,7 +3,7 @@
         "Author": "status102",
         "Name": "Cashier",
         "InternalName": "Cashier",
-        "AssemblyVersion": "0.1.4.2",
+        "AssemblyVersion": "0.1.4.3",
         "Changelog": "修复历史记录部分bug，自动结账全体归0时不再取消勾选\n修复交易记录会记录空格子\n修复获取不可堆叠道具数量错误及对方道具数量错误",
         "Punchline": "自动结账，交易记录",
         "Description": "买东西忘记给了多少钱？老板队结账太麻烦？用这个",
