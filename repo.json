@@ -29,7 +29,7 @@
         "Author": "status102",
         "Name": "StatusCode",
         "InternalName": "StatusCode",
-        "AssemblyVersion": "0.1.5.0",
+        "AssemblyVersion": "0.1.5.1",
         "Description": "测试工具",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/status102/StatusCode",
