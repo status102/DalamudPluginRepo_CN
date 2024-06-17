@@ -27,24 +27,24 @@
     },
     {
         "Author": "status102",
-        "Name": "Wanna Home",
-        "InternalName": "WannaHome",
-        "AssemblyVersion": "0.0.2.2",
-        "Description": "查看房区时记录数据并上传，从网站获取空地信息",
-        "RepoUrl": "https://github.com/status102/WannaHome-Dalamud",
+        "Name": "StatusCode",
+        "InternalName": "StatusCode",
+        "AssemblyVersion": "0.1.5.0",
+        "Description": "测试工具",
         "ApplicableVersion": "any",
-        "IsHide": false,
-        "IsTestingExclusive": false,
+        "RepoUrl": "https://github.com/status102/StatusCode",
         "Tags": [
-            "sample",
-            "plugin",
-            "goats"
+            "Tool"
         ],
-        "DalamudApiLevel": 7,
+        "DalamudApiLevel": 9,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
         "LoadPriority": 0,
-        "Punchline": "查看房区时记录数据并上传，上传摇号数据",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/status102/WannaHome-Dalamud/main/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/status102/WannaHome-Dalamud/main/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/status102/WannaHome-Dalamud/main/latest.zip"
+        "ImageUrls": [],
+        "Punchline": "测试工具",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/status102/DalamudPluginRepo_CN/main/StatusCode.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/status102/DalamudPluginRepo_CN/main/StatusCode.zip"
     }
 ]
